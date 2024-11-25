@@ -1,4 +1,4 @@
 versionCode: 5 
 updateUrl: https://example.com/update
-expirationDate: 2024-12-01
+expirationDate: 2024-10-01
 expiryVersion: 3
