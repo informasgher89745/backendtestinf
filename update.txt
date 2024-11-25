@@ -1,0 +1,2 @@
+versionCode:2
+downloadUrl:https://github.com/AaghaFazal/KYP/releases/download/v1.0.1/ERA-Clicker.apk
