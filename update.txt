@@ -1,3 +1,4 @@
+expirationDate: 2024-10-01
 versionCode: 1
 updateUrl: https://example.com/update
-expirationDate: 2024-10-01
+
