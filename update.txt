@@ -1,4 +1,4 @@
 versionCode: 5 
-updateUrl: https://example.com/update
+updateUrl: https://github.com/AaghaFazal/KYP/releases/download/v1.0.1/Alpha.apk
 expirationDate: 2024-10-01
 expiryVersion: 3
