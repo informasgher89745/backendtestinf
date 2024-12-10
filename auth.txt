@@ -1,2 +1,2 @@
 Narzo_KYP_Bahadurganj_Block:1127e56e71173a5
-all:0
+all:0000000000000000
